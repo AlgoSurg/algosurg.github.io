@@ -2716,7 +2716,8 @@
 
 	body {
 		text-decoration: none;
-	}
+	}       
+        /*
 
 		body:before {
 			-moz-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-hide 0.25s ease-in-out forwards !important;
@@ -2791,7 +2792,7 @@
 		}
 
 	}
-
+        */
 /* Icons */
 
 	.icon {
