@@ -2893,7 +2893,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("images/overlay.png"), url("../../images/intro.gif");
         background-size: 256px 256px, 256px 256px,  cover;
         background-attachment: fixed, fixed, fixed;
         background-position: center left, center left, center center;
