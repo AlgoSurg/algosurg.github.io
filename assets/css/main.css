@@ -17,6 +17,24 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+
+	@media (orientation: landscape) {
+		.landscapeView{
+			display: block;
+		}
+		.portraitView{
+			display: none;
+		}
+	}
+
+	@media (orientation: portrait) {
+		.landscapeView{
+			display: none;
+		}
+		.portraitView{
+			display: block;
+		}
+	}
 /*
 	iframe {
 	margin-right: 10px;
